@@ -78,3 +78,5 @@ ACCURACY_SCORE	TO MEASURE MODEL ACCURACY
 CLASSIFICATION_REPORT	TO PRINT DETAILED PERFORMANCE METRICS
 
 OUTPUT:
+
+<img width="960" height="600" alt="Image" src="https://github.com/user-attachments/assets/32e2637b-402a-4c6e-8ae8-96c591f74a4b" />
